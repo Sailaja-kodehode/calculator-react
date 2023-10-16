@@ -236,7 +236,7 @@ export default function Calculator() {
               />
               {/* del input (delete) */}
               <input
-                className="calculator__inputs__rows__row__input calculator__inputs__rows__row__input--del"
+                className="calculator_inputs_rows_row_input calculator_inputs_rows_row_input--del"
                 type="button"
                 value={"DEL"}
                 onClick={() => addInputToResult("del")}
