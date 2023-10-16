@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sailaja-kodehode/calculator-react/static/css/main.74d9c828.css",
+    "main.js": "/Sailaja-kodehode/calculator-react/static/js/main.006e004b.js",
+    "static/js/787.207e0cf3.chunk.js": "/Sailaja-kodehode/calculator-react/static/js/787.207e0cf3.chunk.js",
+    "index.html": "/Sailaja-kodehode/calculator-react/index.html",
+    "main.74d9c828.css.map": "/Sailaja-kodehode/calculator-react/static/css/main.74d9c828.css.map",
+    "main.006e004b.js.map": "/Sailaja-kodehode/calculator-react/static/js/main.006e004b.js.map",
+    "787.207e0cf3.chunk.js.map": "/Sailaja-kodehode/calculator-react/static/js/787.207e0cf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74d9c828.css",
+    "static/js/main.006e004b.js"
+  ]
+}
